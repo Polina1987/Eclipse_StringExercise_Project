@@ -5,6 +5,8 @@ import java.util.Calendar;
 public class SubstingExercise {
 
 	public static void main(String[] args) {
+		
+		//StringExercise project is now on GitHub
 
 //  String currentTime = Calendar.getInstance().getTime().toString();
     String currentTime = "Tue Jun 25 20:45:36 EDT 2019";
